@@ -1,10 +1,10 @@
-# Đ2ER
+# DD2ER
 
 Data Declaration TO Entity Relationship diagram.
 
 # Idea
 
 ```
-Parsing SQL => processing AST
-            => generate Rntity Relationship diagram.
+Parsing SQL => process AST
+            => generat Entity Relationship diagram.
 ```
