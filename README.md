@@ -6,5 +6,5 @@ Data Declaration TO Entity Relationship diagram.
 
 ```
 Parsing SQL => process AST
-            => generat Entity Relationship diagram.
+            => generate Entity Relationship diagram.
 ```
