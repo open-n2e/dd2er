@@ -5,6 +5,6 @@ Data Declaration TO Entity Relationship diagram.
 # Idea
 
 ```
-Parsing SQL => process AST
-            => generate Entity Relationship diagram.
+Parsing SQL => process SQL AST
+            => generate Entity Relationship diagram (mermaid.js by default).
 ```
